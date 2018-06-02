@@ -13,6 +13,3 @@ To do this, we created an IR-based RTLS. The system consists of four stationary 
 * **Jacob Kruzer**
 * **Samuel Taylor**
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
